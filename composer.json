@@ -1,0 +1,17 @@
+{
+	"name": "wlukin/hashcrypt",
+    "type": "library",
+	"description": "Symmetric crypto library using hash algorithms",
+	"license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Viacheslav Lukin",
+            "homepage": "http://github.com/wlukin"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "": "lib/"
+        }
+    }
+}
